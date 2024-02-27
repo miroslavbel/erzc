@@ -1,0 +1,3 @@
+[submodule "mirlib"]
+	path = deps/mirlib
+	url = https://github.com/miroslavbel/mirlib
